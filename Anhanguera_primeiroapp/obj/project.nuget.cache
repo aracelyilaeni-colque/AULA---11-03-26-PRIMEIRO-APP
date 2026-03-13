@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14GE9w1bfKg=",
+  "dgSpecHash": "Hk4ssfmHsCs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
+  "projectFilePath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\AULA---11-03-26-PRIMEIRO-APP\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IlaeniAracelyColque\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\IlaeniAracelyColque\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

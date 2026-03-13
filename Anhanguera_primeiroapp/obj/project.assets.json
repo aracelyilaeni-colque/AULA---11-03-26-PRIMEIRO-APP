@@ -5271,11 +5271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
+      "projectUniqueName": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\AULA---11-03-26-PRIMEIRO-APP\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
       "projectName": "Anhanguera_primeiroapp",
-      "projectPath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
+      "projectPath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\AULA---11-03-26-PRIMEIRO-APP\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp.csproj",
       "packagesPath": "C:\\Users\\IlaeniAracelyColque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\Anhanguera_primeiroapp\\obj\\",
+      "outputPath": "C:\\Users\\IlaeniAracelyColque\\source\\repos\\Anhanguera_primeiroapp\\AULA---11-03-26-PRIMEIRO-APP\\Anhanguera_primeiroapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
