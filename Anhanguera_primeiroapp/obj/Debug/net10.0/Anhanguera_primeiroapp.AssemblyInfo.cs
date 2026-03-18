@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anhanguera_primeiroapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46e936f4a295ce6e6fdc71651c1154fb6962c24c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b0471dbbca077f24222e77eb750473592156e18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anhanguera_primeiroapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anhanguera_primeiroapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
